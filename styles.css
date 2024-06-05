@@ -1,0 +1,25 @@
+a{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.main{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:darkseagreen;
+    color:black; 
+
+}
+
+p{
+    font-weight:bold;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: red;
+    font-size:22px
+}
+
+li{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 50;
+    font-size:20px
+}
